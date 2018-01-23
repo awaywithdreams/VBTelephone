@@ -1,0 +1,27 @@
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\bin\Debug\Allan_Project3.exe.config
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\bin\Debug\Allan_Project3.exe
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\bin\Debug\Allan_Project3.pdb
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\bin\Debug\Allan_Project3.xml
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.AboutBox1.resources
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.Form1.resources
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.Resources.resources
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.SplashScreen1.resources
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.vbproj.GenerateResource.Cache
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.exe
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.xml
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.pdb
+C:\Users\NIAGARACISRES\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.vbprojResolveAssemblyReference.cache
+C:\Users\NIAGARACISRES\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.Form2.resources
+C:\Users\NIAGARACISRES\documents\visual studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.SplashScreen2.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\bin\Debug\Allan_Project3.exe.config
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.exe
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.xml
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.pdb
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.vbprojResolveAssemblyReference.cache
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.AboutBox1.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.Form1.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.Form2.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.Resources.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.SplashScreen1.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.SplashScreen2.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Project3\Allan_Project3\obj\Debug\Allan_Project3.vbproj.GenerateResource.Cache
